@@ -1,6 +1,6 @@
 # Routru : Plan with Convenience
 
-<img src="https://routru.me/static/img/routru-light.png" width="200">
+<img src="https://routru.me/static/img/routru.png" width="200">
 
 ## Required User Stories
 
