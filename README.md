@@ -1,5 +1,7 @@
 # Routru : Plan with Convenience
 
+<img src="https://routru.me/static/img/routru-light.png" width="200">
+
 ## Required User Stories
 
 * [ ] Users shall be able to login to the application, either through Facebook or Routru's basic email, password authentication system.
