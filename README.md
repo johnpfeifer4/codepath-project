@@ -2,11 +2,15 @@
 
 <img src="https://routru.me/static/img/routru.png" width="100">
 
-## Required User Stories
+## Required User Stories 1
 
 * [ ] Users shall be able to login to the application, either through Facebook or Routru's basic email, password authentication system.
 
 * [ ] Users shall be able to search locations, and add them to their plan.
+
+* [ ] Users shall be able to view their account that has all of their plans.
+
+## Required User Stories 2
 
 * [ ] Users shall be able to add new location data to searches.
 
@@ -14,13 +18,14 @@
 
 * [ ] Users shall be able to add context to plans such as videos, photos, and music e.g. if a plan includes a restaurant a user can upload foods/videos of the food or menu.
 
-* [ ] Users shall be able to view their account that has all of their plans.
-
 * [ ] Users shall be able to fork other users' plans.
 
-## Optional User Stories
+## Optional User Stories 1
 
 * [ ] Uber and Lyft integrations so when users start their plan the application will conveniently give them recommendations of pickup locations.
 
-* [ ] A location based game where users can receive points based on completing tasks e.g. "Get 500 points for buying a sub from X restaurant."
+* [ ] A location based game(s) where users can receive points based on completing tasks e.g. "Get 500 points for buying a sub from X restaurant."
 
+## Optional User Stories 2
+
+* [ ] Offline location data caching i.e. application knows user is going to Patapsco State Park where there is no internet so it caches useful information regarding it.
