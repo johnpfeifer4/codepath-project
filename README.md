@@ -33,19 +33,25 @@
 ## Wireframes
 
 Splash
+
 <img src="/images/Splash Screen.png"><br>
 
 Login
+
 <img src="/images/Login Screen.png"><br>
 
 Search Screen
+
 <img src="/images/Home Screen.png"><br>
 
 Search Results
+
 <img src="/images/Search Results.png"><br>
 
 Plan View
+
 <img src="/images/Plan View.png"><br>
 
 Profile View
+
 <img src="/images/profile.jpg">
