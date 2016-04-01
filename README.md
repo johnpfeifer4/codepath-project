@@ -1,6 +1,6 @@
 # Routru : Plan with Convenience
 
-<img src="https://routru.me/static/img/routru.png" width="100">
+<img src="https://routru.me/images/logo-second.3ce6072e.png" width="100">
 
 ## Required User Stories 1
 
@@ -55,3 +55,7 @@ Plan View
 Profile View
 
 <img src="/images/profile.jpg" width="500">
+
+# Data Schema
+
+The full JSON Data Schema can be viewed [Firebase Schema](https://flickering-torch-6273.firebaseio.com/.json?print=pretty)
